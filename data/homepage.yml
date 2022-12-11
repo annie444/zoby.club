@@ -47,12 +47,12 @@ education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
   - title: Honours in Fine Arts
     year: "2004"
     academy: Harvard University
+  - title: Masters in Fine Arts
+    year: "2006"
+    academy: Parson's The New School
   - title: Higher Secondary Certificat
     year: "2000"
     academy: Cardiff School
