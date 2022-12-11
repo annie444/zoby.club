@@ -3,11 +3,10 @@ banner:
   title: Hi! I’m <br> Zoe <br> or Zoester <br> or Zoby <br> or Zoo-little ...
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: This is my little playground site for me to learn how to code. It is hosted
+    on Netlify with Forestry.io CMS. The source code can be found on github from the
+    zoby.club repo. I hope you enjoy my tinkering! (ps shit might be broke, but just
+    don't worry about it...)
   button:
     enable: true
     label: know all
