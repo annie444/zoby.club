@@ -16,11 +16,13 @@
 >>> 4. Then run `brew install hugo` in the terminal
 >>> 5. and then clone the website source code from [github](https://github.com/annie444/zoby.club) by installing the github command line interface (CLI) with `brew install git`
 >>> 6. Then clone the site by running `git clone https://github.com/annie444/zoby.club.git projects/zoes-website`
->>> 7. Then run `hugo server -D` to start the server
->>> 8. Then go to `localhost:1313` in your browser to see the website
->>> 9. Then make changes to the website and commit them to github by running `git add .` and then `git commit -m "your message here"` and then `git push`
->>> 10. Then go to [netlify](https://www.netlify.com/) and log in with your github account
->>> 11. There you should be able to easily modify the website's content and see the changes live
+>>> 7. When you're done, run `cd projects/zoes-website` to go to the website directory
+>>> 8. Then run `hugo server -D` to start the server
+>>> 9. Then go to `localhost:1313` in your browser to see the website
+>>> 10. I recommend downloading [vscode](https://code.visualstudio.com/) to edit your code easily
+>>> 10. Then make changes to the website and commit them to github by running `git add .` and then `git commit -m "your message here"` and then `git push`
+>>> 11. Then go to [netlify](https://www.netlify.com/) and log in with your github account
+>>> 12. There you should be able to easily modify the website's content and see the changes live
 >> Okay we're in... by the time you're reading this I should have already taken over the website...
 >>>> - If you want to add a new page, you can run `hugo new page-name.md` and then add the page to the menu in `config.toml`
 >>>> - If you want to add a new post, you can run `hugo new post/post-name.md` and then add the post to the menu in `config.toml`
