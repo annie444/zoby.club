@@ -32,17 +32,17 @@ experience:
   title: Experience
   item:
   - logo: images/experience/icon-1.png
-    title: Front-desk Manager
-    company: STRIIIKE
-    duration: Nov 2021 - Present
+    title: This is where it all started
+    company: BUZZ Salon
+    duration: Once a time long long ago
   - logo: images/experience/icon-2.png
     title: A Literal Buffalo
     company: Buffalo Exchange
     duration: Far too long...
   - logo: images/experience/icon-1.png
-    title: This is where it all started
-    company: BUZZ Salon
-    duration: Once a time long long ago
+    title: Front-desk Manager
+    company: STRIIIKE
+    duration: Nov 2021 - Present
 education:
   enable: true
   title: Education
