@@ -72,10 +72,9 @@ service:
       <em>"She's a pretty good friend"</em>
       <strong><em>-Analetta Ehler</em></strong>
     highlighted: false
-  - title: UX Design
+  - title: Design
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: I like to be creative
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
