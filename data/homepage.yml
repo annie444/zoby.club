@@ -56,8 +56,8 @@ education:
   - title: I gradumacated High School
     year: "2019"
     academy: City High
-  - title: Secondary School Certificate
-    year: "1998"
+  - title: 'I gradumacated Elementary School '
+    year: "2012"
     academy: Cardiff School
 service:
   enable: true
