@@ -65,8 +65,12 @@ service:
   item:
   - title: Being your friend
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: |
+      I'm a pretty good friend. Here's a testimonial!
+      <br>
+      <br>
+      <em>"She's a pretty good friend"</em>
+      <strong><em>-Analetta Ehler</em></strong>
     highlighted: false
   - title: UX Design
     icon: ti-vector
