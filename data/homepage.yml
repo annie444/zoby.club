@@ -24,8 +24,8 @@ skill:
   - title: Painting
     progress: 90%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: Meanness
+    progress: 10%
     color: "#ffbcaa"
 experience:
   enable: true
