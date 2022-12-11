@@ -21,8 +21,8 @@ skill:
   - title: Cooking
     progress: 60%
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: Painting
+    progress: 90%
     color: "#bdecf6"
   - title: Web App
     progress: 70%
